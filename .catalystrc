@@ -1,0 +1,29 @@
+{
+  "defaults": {
+    "project": 1,
+    "env": 1
+  },
+  "actives": {
+    "project": 1,
+    "env": 1
+  },
+  "projects": [
+    {
+      "idx": 1,
+      "id": "13043000000003013",
+      "name": "A-city",
+      "domain": {
+        "id": "10053024185",
+        "name": "a-city-802702652.development"
+      },
+      "env": [
+        {
+          "idx": 1,
+          "id": "802702652",
+          "name": "Development",
+          "type": 3
+        }
+      ]
+    }
+  ]
+}
